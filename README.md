@@ -24,8 +24,8 @@ docker build -t ppollai/spring-boot-mongo .
 
 ## Deploy Application Using Docker Compose 
 
-```docker-compose 
-docker-compose up -d 
+```docker compose 
+docker compose up -d 
 ```
 
 ## List Docker Containers
